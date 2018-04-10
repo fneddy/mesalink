@@ -15,6 +15,7 @@
 
 #include <mesalink/openssl/err.h>
 #include <mesalink/openssl/ssl.h>
+#include <netinet/in.h>
 #include <resolv.h>
 #include <stdio.h>
 #include <stdlib.h>
